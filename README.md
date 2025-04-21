@@ -50,4 +50,5 @@ There are different platforms that support blockchain development, including:
 - Ethereum: A decentralized platform that enables the creation of smart contracts and decentralized applications (dApps).
 
 Conclusion
+
 Blockchain technology has the potential to transform various industries by providing a secure, transparent, and decentralized way to record and verify transactions. By understanding the fundamentals of blockchain, including smart contracts, we can harness its potential and explore new applications.
