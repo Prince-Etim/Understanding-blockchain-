@@ -14,6 +14,7 @@ ON:
 
 
 
+
 Introduction:
 
 Blockchain is a decentralized digital ledger that records transactions across a network of nodes. In this document, I'll explain the fundamentals of blockchain technology, including distributed ledger architecture, consensus algorithms, blockchain platforms, and smart contracts.
